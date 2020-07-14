@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...<br/>
  🌱 I’m currently learning ...
 
 <!--
