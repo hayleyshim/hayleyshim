@@ -1,8 +1,4 @@
-### Hi there 👋
-
- 🔭 I’m currently working on ...<br/>
- 🌱 I’m currently learning ...<br/>
- 😄 It's a kind of hobby ...
+### Geek in the pink✨
 
 <!--
 **hayleyshim/hayleyshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
