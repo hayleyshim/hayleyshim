@@ -1,4 +1,4 @@
-### Geek in the pink✨
+### The power to turn thoughs to reality✨
 
 <!--
 **hayleyshim/hayleyshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
