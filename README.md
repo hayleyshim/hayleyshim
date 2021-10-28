@@ -9,7 +9,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## Just for hobby
+## Something else
 
 ## Stack
 - Linux
