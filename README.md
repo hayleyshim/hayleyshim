@@ -3,14 +3,14 @@
 <a href="https://github.com/hayleyshim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"/></a>                        
 
 ## Tech Stack
-- Python
-- Node.js
+- Network
 - Public Cloud(AWS, GCP)
+- K8S 
+- Node.js
+- Python
+- Linux
 - Java
 - C
-- React.js
-- Linux
-- Android-Studio
 
 <a href="https://hayleyshim.github.io/">
     <img 
