@@ -18,4 +18,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yhshim17)](https://www.facebook.com/yhshim17)
+<a href="https://www.facebook.com/yhshim17">
+    <img 
+        src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
