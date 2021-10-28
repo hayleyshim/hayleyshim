@@ -9,7 +9,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## Hayley Yonghui Shim : Engineer
+## Just for hobby
 
 ## Stack
 - Linux
