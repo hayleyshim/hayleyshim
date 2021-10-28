@@ -9,9 +9,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## AlpoxDev : Service Programmer
-
-Infra Engineer,   
+## Hayley Yonghui Shim : Engineer
 
 ## Stack
 - Linux
