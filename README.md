@@ -18,4 +18,4 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/hayleyshim)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yhshim17)](https://www.facebook.com/yhshim17)
