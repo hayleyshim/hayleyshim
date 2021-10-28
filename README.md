@@ -11,7 +11,7 @@
 
 ## Something else
 
-## Stack
+## Tech Stack
 - Linux
 - Python
 - React.js
