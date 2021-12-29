@@ -6,6 +6,7 @@
 - Network
 - Public Cloud(AWS, GCP)
 - K8S 
+- Go
 - Node.js
 - Python
 - Linux
