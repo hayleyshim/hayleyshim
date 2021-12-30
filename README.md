@@ -8,7 +8,8 @@
 - K8S 
 - Python
 - Linux
-
+- Java
+- C
 
 <a href="https://hayleyshim.github.io/">
     <img 
