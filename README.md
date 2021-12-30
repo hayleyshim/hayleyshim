@@ -10,6 +10,7 @@
 - Linux
 - Java
 - C
+- React
 
 <a href="https://hayleyshim.github.io/">
     <img 
