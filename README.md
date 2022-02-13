@@ -20,7 +20,7 @@
 
 <a href="https://gettingconnected.tistory.com/">
     <img 
-        src="https://img.shields.io/static/v1?label=&message=tistory&color=orange"
+        src="https://img.shields.io/static/v1?label=&message=Tistory(inactive)&color=orange"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
