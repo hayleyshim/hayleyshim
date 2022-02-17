@@ -5,10 +5,11 @@
 ## Tech Stack
 - Future Network
 - Public Cloud(AWS, GCP)
-- K8S 
+- K8S
+- Docker 
 - Python
-- Linux
 - IaC(cloudformation, terraform)
+- Linux
 - Java
 - C
 - React
