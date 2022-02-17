@@ -8,9 +8,11 @@
 - K8S 
 - Python
 - Linux
+- IaC(cloudformation, terraform)
 - Java
 - C
 - React
+- HTML,CSS
 
 <a href="https://hayleyshim.github.io/">
     <img 
