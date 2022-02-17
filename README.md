@@ -10,10 +10,6 @@
 - Python
 - IaC(cloudformation, terraform)
 - Linux
-- Java
-- C
-- React
-- HTML,CSS
 
 <a href="https://hayleyshim.github.io/">
     <img 
