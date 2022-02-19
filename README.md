@@ -14,7 +14,7 @@
 - Java
 - C
 - React
-- Javascript,HTML,CSS
+- HTML,CSS
 
 <a href="https://hayleyshim.github.io/">
     <img 
