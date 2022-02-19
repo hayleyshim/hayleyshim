@@ -10,6 +10,7 @@
 - Python
 - IaC(cloudformation, terraform)
 - Linux
+- SQL
 - Java
 - C
 - React
