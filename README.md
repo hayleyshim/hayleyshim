@@ -4,7 +4,7 @@
 
 ## Tech Stack
 - Future Network(SDN, ICN, Satellite NW, Distributed NW)
-- Public Cloud(AWS, GCP) & On-prem
+- Public Cloud(AWS, GCP) & On-Prem
 - K8S
 - Docker 
 - Python
