@@ -3,12 +3,12 @@
 <a href="https://github.com/hayleyshim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"/></a>                        
 
 ## Tech Stack
-- Future Network
-- Public Cloud(AWS, GCP)
+- Future Network(SDN, ICN, Satellite NW, Distributed NW)
+- Public Cloud(AWS, GCP) & On-prem
 - K8S
 - Docker 
 - Python
-- IaC(cloudformation, terraform)
+- IaC(terraform)
 - Linux
 - SQL
 - Java
