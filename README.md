@@ -29,7 +29,6 @@
 
 	
 <a href="yhshim17@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/mastodon/follow/:id?domain=https%3A%2F%2Fmastodon.social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/gmail-1877f2?style=flat-square&logo=#EA4335&logoColor=red"/></a>&nbsp 
+
 </a> 
