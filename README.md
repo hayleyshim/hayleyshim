@@ -4,7 +4,6 @@
 
 ## Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Future Network(SDN, ICN, Satellite NW, Distributed NW)
 - Public Cloud(AWS, GCP) & On-Prem
