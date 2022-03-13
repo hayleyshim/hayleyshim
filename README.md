@@ -3,6 +3,9 @@
 <a href="https://github.com/hayleyshim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"/></a>                        
 
 ## Tech Stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - Future Network(SDN, ICN, Satellite NW, Distributed NW)
 - Public Cloud(AWS, GCP) & On-Prem
 - K8S
