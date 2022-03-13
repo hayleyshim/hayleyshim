@@ -29,6 +29,6 @@
 
 	
 <a href="yhshim17@gmail.com">
-   <img src="https://img.shields.io/badge/gmail-1877f2?style=flat-square&logo=#EA4335&logoColor=red"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/gmail-red?style=flat-square&logo=#EA4335&logoColor=red"/></a>&nbsp 
 
 </a> 
