@@ -7,7 +7,7 @@
 
 - Interested Field : Future Network(SDN, ICN, Satellite NW, Distributed NW)
 - Focus now in Public Cloud(AWS, GCP) & On-Prem, K8S, Docker, Python, IaC(terraform), Linux
-- Experienced in Java, C, HTML,CSS, React, SQL etc
+- Experienced in Java, C, HTML, CSS, React, SQL etc
 
 <a href="https://hayleyshim.github.io/">
     <img 
