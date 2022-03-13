@@ -30,6 +30,6 @@
 	
 <a href="yhshim17@gmail.com">
     <img 
-        src="https://img.shields.io/badge//mastodon/follow/:id?domain=https%3A%2F%2Fmastodon.social"
+        src="https://img.shields.io/badge/mastodon/follow/:id?domain=https%3A%2F%2Fmastodon.social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
