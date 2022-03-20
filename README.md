@@ -5,8 +5,8 @@
 ## Tech Stack
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayleyshim&show_icons=true&theme=Gradient)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyshim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- Focus now in Cloud Native Env(Public Cloud(AWS, GCP), On-Prem), Container(docker), Container Orchestration(k8s), Script(python), IaC(terraform), OS(linux)
-- Experienced in Java, C, HTML, CSS, React, SQL, Graphic program(photoshop, illustrator) etc
+- Focus now in Cloud Native Env(Public Cloud, On-Prem), Container(docker), Container Orchestration(k8s), Script(python), OS(linux), IaC(terraform) etc. 
+- Experienced in Java, C, HTML, CSS, React, SQL, Graphic program(photoshop, illustrator) etc.
 
 <a href="https://hayleyshim.github.io/">
     <img 
