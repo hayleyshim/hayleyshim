@@ -7,7 +7,7 @@
 
 - Focus now in Cloud Native Env(Public Cloud, On-Prem), Container(docker), Container Orchestration(k8s), Script(python), OS(linux), IaC(terraform) etc. 
 - Experienced in Java, C, HTML, CSS, React, SQL, Graphic program(photoshop, illustrator) etc.
-<a href="https://medium.com/">
+<a href="https://medium.com/@hayleyshim">
     <img 
         src="https://img.shields.io/static/v1?label=&message=Medium(planning)&color=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -15,7 +15,7 @@
 
 <a href="https://hayleyshim.github.io/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog(fulled)-655ced?style=flat&logo=github&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Tech%20Blog(inactive)-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
