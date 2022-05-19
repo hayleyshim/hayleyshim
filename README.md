@@ -9,7 +9,7 @@
 - Experienced in Java, C, HTML, CSS, React, SQL, Graphic program(photoshop, illustrator) etc.
 <a href="https://medium.com/@hayleyshim">
     <img 
-        src="https://img.shields.io/static/v1?label=&message=Medium(planning)&color=white"
+        src="https://img.shields.io/static/v1?label=&message=Medium(active)&color=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
