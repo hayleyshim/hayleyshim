@@ -8,7 +8,7 @@
 - Focus now in Cloud Native Infra(cloud, on-prem), Container(docker), Container Orchestration(k8s), Script(python), OS(linux) etc. 
 - Experienced in Java, C, HTML, CSS, React, SQL, Graphic program(photoshop, illustrator) etc.
 
-### Homo sapiens sapiens, truly Homo Archivist
+### Homo sapiens sapiens, truly Homo archivist
 <a href="https://medium.com/@hayleyshim">
     <img 
         src="https://img.shields.io/static/v1?label=&message=Medium(active)&color=white"
