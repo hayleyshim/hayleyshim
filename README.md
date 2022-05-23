@@ -9,7 +9,7 @@
 - Experienced in Java, C, HTML, CSS, React, SQL, Graphic program(photoshop, illustrator) etc.
 
 ### Homo sapiens sapiens, truly Homo archivist
-<a href="https://medium.com/@hayleyshim">
+<a href="https://medium.com/techblog-infra">
     <img 
         src="https://img.shields.io/static/v1?label=&message=Medium(active)&color=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
