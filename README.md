@@ -6,7 +6,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayleyshim&show_icons=true&theme=Gradient)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyshim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Focus now in Cloud Native Infra(cloud, on-prem), Container(docker), Container Orchestration(k8s), Script(python), OS(linux) etc. 
-- Experienced in Java, C, HTML, CSS, React, SQL, Graphic program(photoshop, illustrator) etc.
 
 ### Homo sapiens sapiens, truly Homo archivist
 <a href="https://medium.com/techblog-hayleyshim">
