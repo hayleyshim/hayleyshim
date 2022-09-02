@@ -28,6 +28,6 @@
 
 <a href="https://www.facebook.com/yhshim17">
     <img 
-        src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook(inactive)&logoColor=white&link=https://www.facebook.com/yhshim17"
+        src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yhshim17"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
