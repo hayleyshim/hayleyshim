@@ -14,6 +14,16 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
+<a href="https://www.youtube.com/channel/UCJ7kzwK2Ww32Tkpoe-hMNcg">
+ <img src="https://img.shields.io/badge/Youtube(preparing)-ff0000?style=flat-square&logo=youtube"/>
+</a>
+
+<a href="https://www.facebook.com/yhshim17">
+    <img 
+        src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yhshim17"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+
 <a href="https://hayleyshim.github.io/">
     <img 
         src="http://img.shields.io/badge/-Github%20Blog(inactive)-655ced?style=flat&logo=github&link=https://alpox.kr"
