@@ -36,3 +36,7 @@
         src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yhshim17"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
+
+
+### Recent Post
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hayleyshim/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hayleyshim/2" alt="Recent Article 2"> 
