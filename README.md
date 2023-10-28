@@ -8,21 +8,21 @@
 - Focus now in Cloud Native Infra(cloud, on-prem), Container(docker), Container Orchestration(k8s), Script(python), OS(linux) etc. 
 
 ### Tech Summary
+<a href="https://gettingconnected.tistory.com/">
+    <img 
+        src="https://img.shields.io/static/v1?label=&message=Tistory(active)&color=orange"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+
 <a href="https://medium.com/techblog-hayleyshim">
     <img 
-        src="https://img.shields.io/static/v1?label=&message=Medium(active)&color=white"
+        src="https://img.shields.io/static/v1?label=&message=Medium(inactive)&color=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
 <a href="https://hayleyshim.github.io/">
     <img 
         src="http://img.shields.io/badge/-Github%20Blog(inactive)-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
-
-<a href="https://gettingconnected.tistory.com/">
-    <img 
-        src="https://img.shields.io/static/v1?label=&message=Tistory(inactive)&color=orange"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
