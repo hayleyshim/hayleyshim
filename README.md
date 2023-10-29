@@ -34,8 +34,7 @@
 
 
 ### Recent Post
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=gettingconnected&postId=default&theme=default)](https://gettingconnected.tistory.com/)
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gettingconnected&theme=default)](https://gettingconnected.tistory.com)
 
 
 
