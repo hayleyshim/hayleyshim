@@ -34,7 +34,8 @@
 
 
 ### Recent Post
-<a target="_blank" href="https://github-readme-tistory-card.vercel.app/api?name={gettingconnected}&postId={default}"><img src="https://github.com/loosie/github-readme-tistory-card"> 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=gettingconnected&postId=default&theme=default)](https://gettingconnected.tistory.com/)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={gettingconnected}&postId={default}&theme={tistory})](https://github.com/loosie/github-readme-tistory-card)
+
+
 
