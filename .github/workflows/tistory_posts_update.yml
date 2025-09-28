@@ -2,28 +2,30 @@ name: Update Tistory Latest Posts
 
 on:
   schedule:
-    # 매일 00:00 UTC에 실행 (한국 시간으로 오전 9시)
     - cron: '0 0 * * *' 
-  workflow_dispatch: # GitHub Actions 탭에서 수동으로 실행 가능
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      
+      - name: Fetch Tistory Posts and Update README
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Tistory RSS 피드 주소
-          feed_url: 'https://gettingconnected.tistory.com/rss' 
+          # 👇 'feed_url' 대신 'feed_list'를 사용하고, 주소를 리스트 형태로 입력합니다.
+          feed_list: '{"Tistory": "https://gettingconnected.tistory.com/rss"}'
           
-          # 👇 특별 저장소이므로 기본 경로 'README.md' 그대로 사용합니다.
-          readme_path: 'README.md' 
+          # 👇 'token' 대신 'gh_token'을 사용합니다. GITHUB_TOKEN은 자동으로 설정됩니다.
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           
-          # README.md 파일 내에서 최신 글 목록이 삽입될 마커의 이름
+          # TISTORY_LATEST_POSTS 마커는 그대로 사용합니다.
           comment_tag_name: 'TISTORY_LATEST_POSTS' 
           
-          # 표시할 최대 게시글 수
+          # README.md 경로는 프로필 저장소에서는 기본값 그대로 사용합니다.
+          readme_path: 'README.md'
+          
           max_post_count: 5 
           
-          # GitHub 토큰
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 게시글 목록 앞에 블로그 이름 대신 마커 이름을 사용하도록
