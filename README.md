@@ -33,8 +33,8 @@
 </a> 
 
 
-### Recent Post
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gettingconnected&theme=default)](https://gettingconnected.tistory.com)
+## 📝 최신 Tistory 포스팅
+(이 사이에 최신 포스팅 목록이 자동으로 삽입됩니다.)
 
 
 
