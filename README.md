@@ -1,6 +1,5 @@
 ### Make your ideas come true✨
 
-<a href="https://github.com/hayleyshim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"/></a>                        
 
 ## Tech Stack
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayleyshim&show_icons=true&theme=Gradient)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyshim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
