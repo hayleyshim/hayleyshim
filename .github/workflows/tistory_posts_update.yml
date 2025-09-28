@@ -14,18 +14,20 @@ jobs:
       - name: Fetch Tistory Posts and Update README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # 👇 'feed_url' 대신 'feed_list'를 사용하고, 주소를 리스트 형태로 입력합니다.
-          feed_list: '{"Tistory": "https://gettingconnected.tistory.com/rss"}'
+          # 👇 'feed_url' 대신 'feed_list'만 사용합니다. JSON 문자열로 입력해야 합니다.
+          feed_list: '{"TistoryBlog": "https://gettingconnected.tistory.com/rss"}'
           
-          # 👇 'token' 대신 'gh_token'을 사용합니다. GITHUB_TOKEN은 자동으로 설정됩니다.
+          # 👇 'token' 대신 'gh_token'만 사용합니다.
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           
-          # TISTORY_LATEST_POSTS 마커는 그대로 사용합니다.
-          comment_tag_name: 'TISTORY_LATEST_POSTS' 
-          
-          # README.md 경로는 프로필 저장소에서는 기본값 그대로 사용합니다.
+          # README.md 경로는 프로필 저장소에서 기본값 그대로 사용합니다.
           readme_path: 'README.md'
           
-          max_post_count: 5 
+          # README에 삽입될 마커의 이름
+          comment_tag_name: 'TISTORY_LATEST_POSTS' 
           
-          # 게시글 목록 앞에 블로그 이름 대신 마커 이름을 사용하도록
+          # 표시할 최대 게시글 수
+          max_post_count: 5 
+
+          # (선택 사항) 커밋 메시지 지정
+          commit_message: 'docs: Update latest Tistory posts'
