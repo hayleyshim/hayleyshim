@@ -4,7 +4,7 @@
 
 ![Hayley's GitHub Metrics](./github-metrics.svg)
 
-- I'm interested in Cloud, MSA, AI tech such as Cloud Native Infra(cloud, on-prem), Container(docker), Container Orchestration(k8s), Script(python), OS(linux) etc.
+- I want to be someone who doesn't chase technology, but defines their own problem — and builds AI capability on top of their own expertise to create change.
 
 ### Tech Summary
 
